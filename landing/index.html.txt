@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Bono Casino</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body { font-family: Arial; margin:0; background:#0c0c0c; color:white; text-align:center; }
+.container { padding:20px; }
+.btn {
+  background:#25D366; color:white; padding:15px 25px;
+  text-decoration:none; display:inline-block;
+  margin:15px 0; border-radius:8px; font-weight:bold;
+}
+.section { margin:30px 0; }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🎰 Bono del 100% para jugar hoy</h1>
+<p>Duplicá tu primer depósito y empezá en minutos</p>
+
+<a class="btn" href="https://wa.me/5492236742985?text=Hola%20quiero%20el%20bono">
+👉 QUIERO MI BONO
+</a>
+
+<div class="section">
+<h2>Beneficios</h2>
+<p>✅ Retiros rápidos</p>
+<p>✅ Métodos locales</p>
+<p>✅ Atención por WhatsApp</p>
+</div>
+
+<div class="section">
+<h2>¿Cómo funciona?</h2>
+<p>1. Escribís por WhatsApp</p>
+<p>2. Recibís el bono</p>
+<p>3. Jugás y retirás</p>
+</div>
+
+<div class="section">
+<h2>Opiniones</h2>
+<p>"Retiré el mismo día" ⭐⭐⭐⭐⭐</p>
+<p>"+3000 jugadores activos"</p>
+</div>
+
+<a class="btn" href="https://wa.me/5492236742985?text=Hola%20quiero%20el%20bono">
+👉 ACTIVAR BONO
+</a>
+
+</div>
+
+</body>
+</html>
